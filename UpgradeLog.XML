@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TSK_COMM_BCR">
+</Property><Property Name="솔루션 파일" Value="D:\Samoh\MCS\OCI_CHIP_MCS\TSK_COMM_BCR_20110919\TSK_COMM_BCR.sln">
+</Property><Property Name="Date" Value="2011년 10월 1일 토요일">
+</Property><Property Name="Time" Value="오후 14:37">
+</Property></Properties><Event ErrorLevel="0" Project="TSK_COMM_BCR" Source="TSK_COMM_BCR.csproj" Description="변환이 필요 없는 프로젝트 파일입니다.">
+</Event><Event ErrorLevel="3" Project="TSK_COMM_BCR" Source="TSK_COMM_BCR.csproj" Description="변환 필요 없음">
+</Event><Event ErrorLevel="0" Project="" Source="TSK_COMM_BCR.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="TSK_COMM_BCR.sln" Description="Converted">
+</Event></UpgradeLog>

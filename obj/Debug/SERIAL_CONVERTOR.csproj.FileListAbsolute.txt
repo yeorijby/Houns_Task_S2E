@@ -1,0 +1,45 @@
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\SERIAL_CONVERTOR.csproj.AssemblyReference.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\SERIAL_CONVERTOR.SYS_MAIN.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\SERIAL_CONVERTOR.ProjectInstaller.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.Properties.Resources.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\SERIAL_CONVERTOR.csproj.GenerateResource.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\SERIAL_CONVERTOR.csproj.CoreCompileInputs.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.exe
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.pdb
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe.config
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.pdb
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\SERIAL_CONVERTOR.csproj.CopyComplete
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\bin\Debug\WCS_TASK_WC.exe.config
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\bin\Debug\WCS_TASK_WC.exe
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\bin\Debug\WCS_TASK_WC.pdb
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\bin\Debug\Interop.MSWinsockLib.dll
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\Interop.MSWinsockLib.dll
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\SERIAL_CONVERTOR.csproj.ResolveComReference.cache
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\SERIAL_CONVERTOR.SYS_MAIN.resources
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\SERIAL_CONVERTOR.ProjectInstaller.resources
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\WCS_TASK_WC.Properties.Resources.resources
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\SERIAL_CONVERTOR.csproj.GenerateResource.cache
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\SERIAL_CONVERTOR.csproj.CoreCompileInputs.cache
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\SERIAL_CONVERTOR.csproj.CopyComplete
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\WCS_TASK_WC.exe
+D:\Project\휴온스\TASK\WCS_TASK_S2E_20240712\obj\Debug\WCS_TASK_WC.pdb
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\bin\Debug\WCS_TASK_S2E.exe.config
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\bin\Debug\WCS_TASK_S2E.exe
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\bin\Debug\WCS_TASK_S2E.pdb
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\bin\Debug\Interop.MSWinsockLib.dll
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\bin\Debug\AxInterop.MSWinsockLib.dll
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\SERIAL_CONVERTOR.csproj.AssemblyReference.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\Interop.MSWinsockLib.dll
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\AxInterop.MSWinsockLib.dll
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\SERIAL_CONVERTOR.csproj.ResolveComReference.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\SERIAL_CONVERTOR.SYS_MAIN.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\SERIAL_CONVERTOR.ProjectInstaller.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\WCS_TASK_S2E.Properties.Resources.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\SERIAL_CONVERTOR.csproj.GenerateResource.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\SERIAL_CONVERTOR.csproj.CoreCompileInputs.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\SERIAL_CONVERTOR.csproj.CopyComplete
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\WCS_TASK_S2E.exe
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_S2E_20240718_LJM\obj\Debug\WCS_TASK_S2E.pdb

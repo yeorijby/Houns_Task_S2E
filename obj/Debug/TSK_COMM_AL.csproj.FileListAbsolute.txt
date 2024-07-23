@@ -1,0 +1,17 @@
+C:\Users\JoHanSung\Desktop\TSK_COMM_BCR\bin\Debug\TSK_COMM_AL.exe.config
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\bin\Debug\TSK_COMM_AL.exe.config
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\bin\Debug\TSK_COMM_AL.exe
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\bin\Debug\TSK_COMM_AL.pdb
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.csprojResolveAssemblyReference.cache
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\obj\Debug\TSK_COMM_BCR.ProjectInstaller.resources
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.Properties.Resources.resources
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.csproj.GenerateResource.Cache
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.exe
+C:\Users\JoHanSung\Desktop\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.pdb
+D:\현장자료\농심(인천)\소스\TSK_COMM_AL\bin\Debug\TSK_COMM_AL.exe.config
+D:\현장자료\농심(인천)\소스\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.exe
+D:\현장자료\농심(인천)\소스\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.pdb
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\TSK_COMM_AL\bin\Debug\TSK_COMM_AL.exe.config
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.exe
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\TSK_COMM_AL\obj\Debug\TSK_COMM_AL.pdb

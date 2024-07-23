@@ -1,0 +1,59 @@
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\TSK_COMM_AL\bin\Debug\WCS_TASK_WC.exe.config
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe.config
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.pdb
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csprojResolveAssemblyReference.cache
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.Properties.Resources.resources
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csproj.GenerateResource.Cache
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.exe
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.pdb
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.SYS_MAIN.resources
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.ProjectInstaller.resources
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\bin\Debug\WCS_TASK_WC.exe.config
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\obj\Debug\WCS_TASK_WC.exe
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\obj\Debug\WCS_TASK_WC.pdb
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\bin\Debug\WCS_TASK_WC.exe
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\bin\Debug\WCS_TASK_WC.pdb
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\obj\Debug\WCS_TASK_WC.csprojResolveAssemblyReference.cache
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\obj\Debug\WCS_TASK_WC.SYS_MAIN.resources
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\obj\Debug\WCS_TASK_WC.ProjectInstaller.resources
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\obj\Debug\WCS_TASK_WC.Properties.Resources.resources
+D:\현장자료\롯데정밀화학(울산)\소스\TASK\WCS_TASK_WC - 수정중\obj\Debug\WCS_TASK_WC.csproj.GenerateResource.Cache
+D:\현장자료\롯데정밀화학(울산)\2. 소스\2. TASK\1. 최신\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe.config
+D:\현장자료\롯데정밀화학(울산)\2. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.exe
+D:\현장자료\롯데정밀화학(울산)\2. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.pdb
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe.config
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.exe
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.pdb
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.pdb
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csprojResolveAssemblyReference.cache
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.SYS_MAIN.resources
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.ProjectInstaller.resources
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.Properties.Resources.resources
+D:\현장자료\롯데정밀화학(울산)\1. 소스\2. TASK\1. 최신\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csproj.GenerateResource.Cache
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe.config
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.exe
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.pdb
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.pdb
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csprojResolveAssemblyReference.cache
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.SYS_MAIN.resources
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.ProjectInstaller.resources
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.Properties.Resources.resources
+D:\project\롯데정밀화학\메셀로스\G동\Source\TASK\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csproj.GenerateResource.Cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe.config
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.exe
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\bin\Debug\WCS_TASK_WC.pdb
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csproj.AssemblyReference.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.SYS_MAIN.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.ProjectInstaller.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.Properties.Resources.resources
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csproj.GenerateResource.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csproj.CoreCompileInputs.cache
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.csproj.CopyComplete
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.exe
+D:\project\휴온스바이오파마\참고\참고 site\롯데G동\WCS_TASK_WC\obj\Debug\WCS_TASK_WC.pdb

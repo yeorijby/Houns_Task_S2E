@@ -1,0 +1,90 @@
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\bin\Debug\log4net.dll
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+D:\OCIC\KSMCS\P3_Chip\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+D:\PROJECT\Daiso_부산_WCS_2018\30.개발\30.개발소스\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TSK_COMM_BCR (1)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스x)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.ProjectInstaller.resources
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+D:\프로젝트\진행중\다이소 WECS(부산)\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe.config
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe.config
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.ProjectInstaller.resources
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+D:\이주성\02. 개발소스\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe.config
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.ProjectInstaller.resources
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+C:\Users\JoHanSung\Desktop\ㅇㅇ\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe.config
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.ProjectInstaller.resources
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+C:\Users\JoHanSung\Desktop\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe.config
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csprojResolveAssemblyReference.cache
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.SYS_MAIN.resources
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.ProjectInstaller.resources
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.Properties.Resources.resources
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.csproj.GenerateResource.Cache
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.pdb
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\bin\Debug\Npgsql.dll
+D:\현장자료\다이소(부산)\최종 소스 및 자료\TASK,시뮬\TASK(서비스)\TSK_COMM_BCR\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\JoHanSung\Desktop\TSK_COMM_BCR\bin\Debug\TSK_COMM_BCR.exe.config
+C:\Users\JoHanSung\Desktop\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.exe
+C:\Users\JoHanSung\Desktop\TSK_COMM_BCR\obj\Debug\TSK_COMM_BCR.pdb
